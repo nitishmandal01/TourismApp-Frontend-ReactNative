@@ -1,6 +1,6 @@
 # TourismApp-Frontend-ReactNative
 
-[view the project](https://snack.expo.dev/@nitishmandal/project2h)
+[Project Live Link On Expo.snack](https://snack.expo.dev/@nitishmandal/project2h)
 
 Open the `App.js` file to start viewing the app. You can preview the changes directly on your phone or tablet. This app is made with expo.snack
 
